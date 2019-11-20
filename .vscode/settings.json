@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "C_Cpp.default.cppStandard": "c++11",
+    "cmake.configureOnOpen": true,
+    "cmake.buildDirectory": "${workspaceFolder}/../build_${workspaceRootFolderName}_${buildType}"
+}
